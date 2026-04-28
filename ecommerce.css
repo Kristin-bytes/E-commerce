@@ -276,4 +276,16 @@ button:active {
     color: darkslategray;
 }
 
+/* EXPLORE MORE BOOKS */
 
+.browse__container {
+    background-color: rgb(195, 233, 220);
+}
+
+.browse__section--title {
+    padding: 40px;
+}
+
+.browse__button {
+    background-color: rgb(71, 50, 174);
+}
